@@ -1,13 +1,12 @@
-#
-# **The New Relic Security Agent for Java is in preview and licensed under the New Relic Pre-Release Software Notice.**
+This enables instrumentation of Java applications for security analysis and runtime application protection. This project is built as a dependency for use in [newrelic-java-agent](https://github.com/newrelic/newrelic-java-agent) only. Other use cases are not supported.
+
+The IAST capability should only be used in pre-production environments and never in production.
+
+**For Preview Only:** This project is in preview and is not generally available. The source code is made available under the terms of the [New Relic Pre-Release Software Notice](LICENSE.md), which is not an open-source license. This is early-stage software that is known to be incomplete.
 
 **Repo:** [https://github.com/newrelic/csec-java-agent](https://github.com/newrelic/csec-java-agent)
 
 **Artifact Name:** newrelic-security-agent.jar
-
-The New Relic Security Agent for Java is in preview and is not generally available. This enables instrumentation of Java applications for security analysis and runtime application protection. This project is built as a dependency for use in [newrelic-java-agent](https://github.com/newrelic/newrelic-java-agent) only. Other use cases are not supported.
-
-The IAST capability should only be used in pre-production environments and never in production.
 
 ## **Installation**
 
